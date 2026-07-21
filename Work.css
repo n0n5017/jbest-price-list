@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(6, 6, 59);
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+}
+img{
+    border-radius: 90px;
+}
+p{
+    color: aliceblue;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+}
+ul{
+    color: aliceblue;
+    /* text-align: center; */
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+}
+li{
+    color: aliceblue;
+    /* text-align: center; */
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+}
+a{
+    color: rgb(221, 211, 12);
+}
+input, textarea{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+}
+
+button{
+    background-color: aliceblue;
+    color: rgb(6, 6, 59);
+    padding: 8px 16px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+label{
+    color: aliceblue;
+}
